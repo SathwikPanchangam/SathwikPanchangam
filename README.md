@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Sathwik Panchangam 
 
 ### 💫 About Me:
-🔭 I’m currently pursuing Masters degree in Autonomous Systems<br>👯 My areas of interest include Deep learning, Synthetic data generation and 3d Modelling<br>🌱 I’m currently learning Electron and docker<br>🤝 I’m currently looking for Master thesis project in the field of Deep learning (Vision)<br>
+🔭 I’m currently pursuing Masters degree in Autonomous Systems<br>👯 My areas of interest include Deep learning, Synthetic data generation and 3d Modelling<br>🌱 I’m currently learning SQL and docker<br>🤝 I’m currently looking for Master thesis project in the field of Deep learning (Vision)<br>
 ⚡ How to reach me: sathwik.nagasai@gmail.com, [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sathwik-panchangam) 
 
 ### Languages and Tools:
